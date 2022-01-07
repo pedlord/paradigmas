@@ -1,5 +1,6 @@
 /*autor: Pedro Inacio de Carvalho Junior
 Esse programa calcula o custo minimo entre a matriz na posição 0,0 e 6,6
+e também mostra o caminho percorrido entre eles
 */
 
 #include <iostream>
